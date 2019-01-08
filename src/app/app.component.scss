@@ -216,7 +216,9 @@
     background-size: cover;
   }
 }
-
+.item--info__content{
+  max-width: 60%;
+ }
 .grid-4 {
   width: 300px;
   height: 290px;
@@ -305,3 +307,4 @@ agm-map {
   height: 290px;
 }
  }
+
